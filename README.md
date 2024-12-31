@@ -2,6 +2,8 @@
 
 A simple tool to help you extend music!
 
+Report: [external link](https://docs.google.com/document/d/19x4xMJSkYzY7-10Qx9RnyWEbp6ucC6H2N99lQZgynKY/edit?usp=sharing)
+
 ## Usage
 
 Compile the code with  
